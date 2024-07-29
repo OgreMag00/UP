@@ -1,0 +1,72 @@
+{
+    "test1": {
+        "result": 0,
+
+        "title": "logic test",
+        "questions": [
+            {
+                "description": "Что из этого конъюнкция?\n(Python)",
+                "answer": "and",
+                "wa1": "or", 
+                "wa2": "==", 
+                "wa3": "!="
+
+            },
+            {
+                "description": "Что из этого дизъюнкция?\n(Python)",
+                "answer": "or",
+                "wa1": "and", 
+                "wa2": "=>", 
+                "wa3": "!="
+            },
+            {
+                "description": "Какая функция является\nинверсией?(Python)",
+                "answer": "not()",
+                "wa1": "none()", 
+                "wa2": "map()", 
+                "wa3": "print()"
+            },
+            {
+                "description": "Что является импликацией?\n(Python)",
+                "answer": "<=",
+                "wa1": ">=", 
+                "wa2": ">", 
+                "wa3": "<"
+            },
+            {
+                "description": "Что является тождеством?\n(Python)",
+                "answer": "==",
+                "wa1": "!=", 
+                "wa2": "=", 
+                "wa3": "==="
+            }
+        ]
+    },
+
+    "test2": {
+        "result": 0,
+        "title": "test2",
+        "questions": [
+            {
+                "description": "who is melo?",
+                "answer": "baby"
+            },
+            {
+                "description": "who is melo?",
+                "answer": "baby"
+            },
+            {
+                "description": "who is melo?",
+                "answer": "baby"
+            },
+            {
+                "description": "who is melo?",
+                "answer": "baby"
+            },
+            {
+                "description": "who is melo?",
+                "answer": "baby"
+            }
+        ]
+    }
+}
